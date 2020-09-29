@@ -4,7 +4,7 @@
 #
 Name     : ngx-fancyindex
 Version  : 0.4.4
-Release  : 5
+Release  : 6
 URL      : https://github.com/aperezdc/ngx-fancyindex/archive/v0.4.4/ngx-fancyindex-0.4.4.tar.gz
 Source0  : https://github.com/aperezdc/ngx-fancyindex/archive/v0.4.4/ngx-fancyindex-0.4.4.tar.gz
 Summary  : No detailed summary available
